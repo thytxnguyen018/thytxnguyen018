@@ -44,9 +44,12 @@ The outputs of the analysis include visualizations of the enzyme's interactions 
    </a>
 </p>
 
-<div align="center">
-   <a href="https://imgur.com/H1rzwIS">
-</div>
+<p align="center">
+   <a>
+   <img width="800px" height="800px" src="https://imgur.com/H1rzwIS.jpg"/>
+   </a>
+</p>
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
