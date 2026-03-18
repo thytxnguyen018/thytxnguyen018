@@ -34,7 +34,7 @@ Landing is a template built by Ant Motion's motion components. It has a rich hom
 
 Has a wealth of various page templates to provide downloads.
 
-[![](https://i.imgur.com/owvz9Vn.jpg)](http://landing.ant.design)
+[![](https://i.imgur.com/owvz9Vn.jpg)]
 
 ## Modules
 
